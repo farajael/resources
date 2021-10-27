@@ -33,8 +33,8 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 
 ## TODO
 
-* [ ] Add E2E tests.
-* [ ] Add Unit tests.
+* [ ] Add Country listings.
+* [ ] Add Language.
 * [ ] Add more functionalities.
 * [ ] Add ...
 
