@@ -1,7 +1,9 @@
 # Resources
+
 Most common resources easing content creation and software development
 
-## description
+## Description
+
 Resources such as;
   -  Links
   -  Country lists
@@ -18,7 +20,7 @@ Farajael Tumaiyo – [@leaj_araf](https://twitter.com/leaj_araf) – farajael.tu
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/farajael/github-link](https://github.com/farajael/)
+[https://github.com/farajael/](https://github.com/farajael/)
 
 ## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/inessadl/readme/issues)
 
@@ -37,9 +39,4 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 * [ ] Add ...
 
 <!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
+[wiki]: https://github.com/farajael/resources/wiki
