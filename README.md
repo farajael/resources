@@ -1,6 +1,16 @@
-# resources
-Most common resources easing content creation. Links, Country lists, City lists, Colors, District lists etc
+# Resources
+Most common resources easing content creation and software development
+
 ## description
+Resources such as;
+  -  Links
+  -  Country lists
+  -  City lists
+  -  Colors
+  -  District lists
+  -  Languages
+  -  Religions
+  -   etc
 
 ## Meta
 
